@@ -1,0 +1,33 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build artifacts
+bin/
+obj/
+
+# Logs
+*.log
+
+# Secrets
+appsettings.Development.json
+.env
+
+# Node / Angular
+node_modules/
+dist/
+.angular/
+
+# JetBrains
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Cache
+*.cache
